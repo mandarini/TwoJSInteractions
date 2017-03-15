@@ -7,5 +7,5 @@ Simple implementation of TwoJS library with mouse and key interactions
 * It also uses the [jQuery](https://jquery.com/) library, which can be linked from [here](https://code.jquery.com/).
 
 ## Description
-This is a simple showcase (with less features possible) of mouse and keyboard interactions in Two.js.
+This is a simple showcase (with the least features possible) of mouse and keyboard interactions in Two.js.
 A ball is created and then moved around and changed size and color according to user mouse movements and key presses.
