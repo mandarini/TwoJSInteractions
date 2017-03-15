@@ -1,0 +1,16 @@
+html, body {
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+  font-weight: 300;
+}
+
+.instructions {
+  width: auto;
+  position: absolute;
+  padding: 10px 30px;
+  bottom: 60px;
+  right: 60px;
+  background-color: rgba(188, 168, 215, 0.7);
+}
+.instructions ul {
+  list-style: none;
+}
